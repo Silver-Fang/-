@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.36
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "从文件提取图像资源", "从文件提取图像资源\从文件提取图像资源.vbproj", "{7C699B5C-8DA7-422F-BAD3-435C36B748E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Debug|ARM.ActiveCfg = Debug|ARM
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Debug|ARM.Build.0 = Debug|ARM
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Debug|ARM.Deploy.0 = Debug|ARM
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Debug|ARM64.Build.0 = Debug|ARM64
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Debug|x64.ActiveCfg = Debug|x64
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Debug|x64.Build.0 = Debug|x64
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Debug|x64.Deploy.0 = Debug|x64
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Debug|x86.ActiveCfg = Debug|x86
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Debug|x86.Build.0 = Debug|x86
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Debug|x86.Deploy.0 = Debug|x86
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Release|ARM.ActiveCfg = Release|ARM
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Release|ARM.Build.0 = Release|ARM
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Release|ARM.Deploy.0 = Release|ARM
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Release|ARM64.ActiveCfg = Release|ARM64
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Release|ARM64.Build.0 = Release|ARM64
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Release|ARM64.Deploy.0 = Release|ARM64
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Release|x64.ActiveCfg = Release|x64
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Release|x64.Build.0 = Release|x64
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Release|x64.Deploy.0 = Release|x64
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Release|x86.ActiveCfg = Release|x86
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Release|x86.Build.0 = Release|x86
+		{7C699B5C-8DA7-422F-BAD3-435C36B748E9}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04B36113-8F5D-43A6-A0C6-0627EEC3D1CD}
+	EndGlobalSection
+EndGlobal
